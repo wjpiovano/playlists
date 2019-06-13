@@ -33,7 +33,7 @@ function Playlist() {
 const App: React.FC = () => {
   return (
     <div className="App">
-      <h1>Super Title</h1>
+      <h1>Will's Playlists</h1>
       <Aggregate />
       <Aggregate />
       <Filter />
