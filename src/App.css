@@ -1,7 +1,18 @@
+html,
+body,
+body>div {
+  height: 100%;
+}
+
 .App {
   text-align: center;
   color: white;
   background: #222;
+  height: 100%;
+}
+
+.App-header {
+  background-color: #222;
 }
 
 .playlist-container {
