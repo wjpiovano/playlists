@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  color: white;
+  background: #222;
+}
+
+.playlist-container {
+  display: grid;
+  grid-template-columns: 20% 20% 20%;
+  justify-content: center;
+  justify-items: center;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
